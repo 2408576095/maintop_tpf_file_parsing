@@ -1,6 +1,6 @@
 # maintop_tpf_file_parsing
 蒙泰打印机tpf文件解析。maintop TPF File Parsing
-# 因为这只是我写完业务代码是写了一些草稿,所有如果需要,请完全阅读内容
+# 因为这只是我写完业务代码是写了一些草稿,所有如果需要,请完全阅读内容。请下载下来然后在文本编辑器(不要在markdown viewer里面查看)中查看,因为我完全没有排版。
 
 
 
